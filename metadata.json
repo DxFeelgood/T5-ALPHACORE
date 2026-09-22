@@ -1,0 +1,11 @@
+{
+  "name": "Archivio Libri",
+  "description": "Applicazione per l'archiviazione e catalogazione libri con scansione barcode su IBS.it e Libraccio.it, scheda biografica Wikipedia degli autori e assistente esperto letterario.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
